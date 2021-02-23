@@ -1,0 +1,28 @@
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.header_container {
+  background-color: rgb(118, 118, 189);
+  margin-bottom: 5px;
+}
+
+.header {
+  height: 40px;
+  color: white;
+  text-transform: uppercase;
+}
+
+.title {
+  color: rgb(118, 118, 189);
+  border: 1px solid rgb(204, 203, 203);
+  height: 33px;
+  text-align: center;
+}
+
+.data {
+  background-color: rgb(204, 203, 203);
+  text-align: center;
+  color: white;
+}
