@@ -14,11 +14,11 @@ function App() {
     
     <div>
        <Profile 
-       name={name}
-       tag={tag}
-       location={location}
-       avatar={avatar}
-       stats={stats}/>
+         name={name}
+         tag={tag}
+         location={location}
+         avatar={avatar}
+         stats={stats}/>
 
        <Statistics stats={statisticalData}/>
 
